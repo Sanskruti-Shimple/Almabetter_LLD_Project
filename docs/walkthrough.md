@@ -1,4 +1,4 @@
-# LMS Capstone Walkthrough (10-12 minutes)
+# LMS Capstone Walkthrough (10-12 minutes).
 
 This is a recording script and demo checklist. Target duration: about 11 minutes. Keep the repository and terminal visible; run commands from the repository root.
 
