@@ -1,4 +1,4 @@
-# EdTech LMS: Low-Level Design Capstone
+# EdTech LMS: Low-Level Design Capstone..
 
 This repository is a runnable Python reference implementation of a modular learning management system. It demonstrates domain modeling, SOLID boundaries, nine design patterns, role-protected assignment workflows, grading, event-driven notifications, and reporting. The implementation uses only the Python standard library and in-memory repositories so the design can be studied without a database or external service account.
 
